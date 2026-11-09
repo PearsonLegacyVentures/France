@@ -23,3 +23,5 @@ These are private massage **enquiries**, not a booking/payment confirmation. No 
 
 ## Editorial
 Coverage is not guaranteed. Locally authorised, suitably qualified professionals, property permissions, actual rates and travel must all be checked before accepting appointments.
+
+Cloudflare Pages GitHub connection established on November 9, 2026. Automatic deployment is configured for main.
